@@ -1,0 +1,8 @@
+[package]
+name = "clone-note"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+nexosim = { git = "https://github.com/asynchronics/nexosim.git" }
+serde = "1.0.228"
