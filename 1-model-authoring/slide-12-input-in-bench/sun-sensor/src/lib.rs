@@ -1,4 +1,4 @@
-use nexosim::Model;
+use nexosim::model::Model;
 use serde::{Deserialize, Serialize};
 
 const POWER_ON_VOLTAGE: f32 = 5.0;

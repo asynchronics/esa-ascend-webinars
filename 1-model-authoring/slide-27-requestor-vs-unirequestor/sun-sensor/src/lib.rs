@@ -1,5 +1,4 @@
-use nexosim::Model;
-use nexosim::model::Context;
+use nexosim::model::{Context, Model};
 use nexosim::ports::{Output, Requestor};
 use serde::{Deserialize, Serialize};
 

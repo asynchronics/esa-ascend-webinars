@@ -21,7 +21,7 @@ fn main() {
     sim.process_event(SunSensor::voltage_in, 5.0, &sensor_addr)
         .unwrap();
 
-    // Send sample command.
+    // Send a sample command.
     let cmd = SampleCommand {
         src_address: 1,
         dest_address: 0,
