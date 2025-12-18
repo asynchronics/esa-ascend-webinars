@@ -1,4 +1,4 @@
-use nexosim::Model;
+use nexosim::model::Model;
 use serde::{Deserialize, Serialize};
 
 #[derive(Serialize, Deserialize)]

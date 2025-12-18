@@ -1,6 +1,6 @@
-use nexosim::model::Context;
+use nexosim::model::{Context, Model};
 use nexosim::ports::Output;
-use nexosim::{Model, ports::UniRequestor};
+use nexosim::ports::UniRequestor;
 use serde::{Deserialize, Serialize};
 
 const POWER_ON_VOLTAGE: f32 = 5.0;

@@ -1,4 +1,4 @@
-use nexosim::Model;
+use nexosim::model::Model;
 use nexosim::ports::Output;
 use serde::{Deserialize, Serialize};
 

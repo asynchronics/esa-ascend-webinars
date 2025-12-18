@@ -1,9 +1,7 @@
 use std::time::Duration;
 
-use nexosim::Model;
-use nexosim::model::{Context, InitializedModel};
+use nexosim::model::{Context, InitializedModel, Model, schedulable};
 use nexosim::ports::{Output, UniRequestor};
-use nexosim::schedulable;
 use serde::{Deserialize, Serialize};
 
 const POWER_ON_VOLTAGE: f32 = 5.0;
