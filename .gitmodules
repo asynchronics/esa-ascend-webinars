@@ -1,0 +1,3 @@
+[submodule "webinar-1-model-authoring"]
+	path = webinar-1-model-authoring
+	url = git@github.com:asynchronics/esa-ascend-webinar-1-model-authoring.git
