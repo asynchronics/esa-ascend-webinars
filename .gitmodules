@@ -4,3 +4,6 @@
 [submodule "webinar-2-bench-assembly"]
 	path = webinar-2-bench-assembly
 	url = https://github.com/asynchronics/esa-ascend-webinar-2-bench-assembly
+[submodule "webinar-3-HIL-simulations"]
+	path = webinar-3-HIL-simulations
+	url = https://github.com/asynchronics/esa-ascend-webinar-3-HIL-simulations
