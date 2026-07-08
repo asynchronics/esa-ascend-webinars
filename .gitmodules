@@ -7,3 +7,6 @@
 [submodule "webinar-3-HIL-simulations"]
 	path = webinar-3-HIL-simulations
 	url = https://github.com/asynchronics/esa-ascend-webinar-3-HIL-simulations
+[submodule "webinar-4-python-client"]
+	path = webinar-4-python-client
+	url = git@github.com:asynchronics/esa-ascend-webinar-4-python-client.git
